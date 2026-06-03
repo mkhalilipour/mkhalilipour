@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm computer engineering in Isfahan University of technology
+I'm computer engineering student in Isfahan University of technology
 
 
 # 💻 Tech Stack:
